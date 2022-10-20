@@ -1,0 +1,28 @@
+body{
+  background-color: #B2B2B2;
+}
+hr{
+  border-style: dotted none none none;
+  border-top-width: 4px;
+  border-color: #3C4048;
+  width: 10%;
+
+}
+.img1{
+  width: 100%;
+  border-style: groove;
+  border-width: 4px;
+  border-color: #3C4048;
+}
+.img2{
+  width: 70%;
+  border-style: inset;
+  border-width: 4px;
+  border-color: #3C4048;
+}
+h1{
+  color: #395144;
+}
+h3{
+  color: #EA047E;
+}
